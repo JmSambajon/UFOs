@@ -19,4 +19,10 @@ When the user enters their search criteria, the javascript code will store that 
 ## Summary
 One drawback of the webpage is there are two data columns that do not have any filters. Those columns are Duration and Comments.
 
-![addtional filters](static/images/Comment_Filter.png)
+![addtional filters](static/images/additional_filters.png)
+
+There are 2 big recommendations that would improve the overall code.
+
+I would recommend the code be udpated to include a duration filter and a comments filter. This way, there can be more search options for more refined results. I would also create a code that checks for typos in the comments prior to filling out the datatable. Here is an example of a comment typo.
+
+![comment](static/images/Comment_Info.png)
